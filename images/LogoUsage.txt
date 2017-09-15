@@ -1,0 +1,2 @@
+https://aws.amazon.com/co-marketing/?externalID=385
+<a href="http://aws.amazon.com/what-is-cloud-computing"><img src="http://awsmedia.s3.amazonaws.com/AWS_Logo_PoweredBy_127px.png" alt="Powered by AWS Cloud Computing"></a>

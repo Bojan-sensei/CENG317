@@ -1,0 +1,40 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=StepperPCBV2
+*Date=23:35:19
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;8.64149;-20.4512;0;Bottom;Via19
+2;;1x06-smd;9.9115;-10.7264;0;Top;JP1
+3;;;35.2569;-3.0154;0;Top;TXT3
+4;;;36.6676;-28.3363;0;Bottom;Raspberry Pi 3
+5;;;25.1515;-8.25919;0;Bottom;Via7
+6;;;34.5997;-5.6755;0;Top;TXT2
+7;;;21.0875;-10.7992;0;Bottom;Via23
+8;;THT;34.0212;-28.8163;-90;Bottom;IC1
+9;;;3.5615;-41.0252;0;Bottom;Via15
+10;;;20.3255;-45.8512;0;Bottom;Via11
+11;;;3.5615;-20.1972;0;Bottom;Via16
+12;;;22.6115;-20.7052;0;Bottom;Via27
+13;;;48.5195;-40.7712;0;Bottom;Via6
+14;;;22.3575;-13.5932;0;Bottom;Via21
+15;;;37.5975;-43.0572;0;Bottom;Via17
+16;;;48.2655;-48.1372;0;Bottom;Via9
+17;;;12.7055;-48.8992;0;Bottom;Via4
+18;;;30.2315;-40.7712;0;Bottom;Via14
+19;;;47.7575;-32.6432;0;Bottom;Via30
+20;;;42.9315;-20.4512;0;Bottom;Via26
+21;;;17.2775;-46.1052;0;Bottom;Via29
+22;;;25.1515;-17.6572;0;Bottom;Via28
+23;;;27.6915;-38.2312;0;Bottom;Via25
+24;;;8.64149;-43.0572;0;Bottom;Via18
+25;;;24.8975;-38.2312;0;Bottom;Via1

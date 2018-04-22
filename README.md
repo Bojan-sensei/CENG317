@@ -37,7 +37,7 @@ GPIO pins as mentioned here.
 It is also highly recommended to use the printed circuit board intended to drive the motor, rather than wiring the entire thing on the breadboard.
 
 As it will need to be tested however, here is a pinout of the L293D Driver chip that will be needed to drive the stepper motor.
-![Image of Pinout]https://i.stack.imgur.com/xg8gz.png
+![Image of Pinout](https://i.stack.imgur.com/xg8gz.png)
 
 To breadboard: 
 Be sure to have the sense hat attached to the pi, as the wiring will be using the extra pins from that sense hat.
